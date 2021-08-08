@@ -1,3 +1,2 @@
 # get-me-running
-Powershell scripts to get me up and running on a Windows Computer
-(hit me up by using my website https://parzival1608.000webhostapp.com/index.html)
+script(s) to get my running on a (Arch-based) GNU+Linux Distro!
